@@ -15,7 +15,7 @@ function countWords(phrase) {
   return wordCounts;
 }
 
-console.log(countWords('Eenie meanie miney meanie'));
+// console.log(countWords('Eenie meanie miney meanie'));
 
 // 2. getMelonsAtPrice
 function getMelonsAtPrice(price) {
@@ -34,5 +34,5 @@ function getMelonsAtPrice(price) {
   return melonPrices[price].sort();
 }
 
-console.log(getMelonsAtPrice(2.50));
-console.log(getMelonsAtPrice(3.25));
+// console.log(getMelonsAtPrice(2.50));
+// console.log(getMelonsAtPrice(3.25));
